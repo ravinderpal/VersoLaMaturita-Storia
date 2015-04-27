@@ -1,0 +1,13 @@
+##IL NUOVO RUOLO  DEGLI STATI UNITI E LA POLITICA ISOLAZIONISTA
+
+###Il fallimento della politica di Wilson:
+Gli Stati Uniti erano usciti dalla prima guerra mondiale in una posizione dominante, Wilson con la proposta riassunta nei Quattordici punti cercò di rifondare le relazioni economiche e politiche mondiali sulla base dei principi di libertà commerciale e della democrazia politica ed economica. Il cosiddetto “wilsonismo” tuttavia no risultò vincente e fu accolto con molta diffidenza dagli americani e lui perse le elezioni del 1920.
+
+##La politica isolazionista di Harding:
+Le votazioni del 1920 furono fatte a suffragio universale poiché per la prima volta votano anche le donne, inoltre la vittoria è andata al Partito Repubblicano di Harding. Il nuovo presidente ripristinò la politica isolazionista e imboccò una strada  socialmente conservatrice, favorendo le classi più ricche senza prevedere interventi a favore dei poveri, inoltre rifiutò di prendere parte ai lavori delle società delle nazioni. L'amministrazione repubblicana adottò misure protezionistiche, imponendo elevate tariffe doganali per difendere il prodotto nazionale; favorendo così le grandi imprese industriali e finanziarie.
+
+##Conseguenze reazionarie e razziste:
+L'isolazionismo politico fu dunque accompagnato da una chiusura economica e una serie di misure contro l'immigrazione straniera con l'introduzione di quote massime da ciascun paese. La drastica riduzione dell'immigrazione fu determinata allo stesso tempo anche dal crescente timore di infiltrazioni comuniste e “sovversive”  e da un nazionalismo che raggiunse punte di estrema violenza xenofoba e razzista, si tratta degli anni del cosiddetto “red scare”, il “terrore rosso”. In tale clima di sospetti e violenze si colloca il processo contro due immigrati italiani di tendenze anarchiche, Nicola Sacco e Bartolomeo Vanzetti, che accusati ingiustamente di rapina e omicidio furono poi giustiziati. La setta segreta di Ku Klux Klan era stata costituita nel 1865 per colpire la popolazione di colore negli stati del Sud.
+
+##Il proibizionismo:
+Fu un provvedimento che fece scalpore, fu inserito  un emendamento alla costituzione, animato da ragioni di natura essenzialmente morale e di difesa della salute, con cui si proibiva la produzione e la vendita di alcolici. Esso però non solo non ottene gli effetti voluti ma alimentò un traffico illegale di alcolici che era controllato dalla criminalità organizzata, questi furono “anni ruggenti” anche per le bande criminali guidate dai gangster come Al Capone. Ci vollero più di dieci anni per prendere atto del fallimento del proibizionismo.
