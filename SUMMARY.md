@@ -10,4 +10,11 @@
    * [Hitler e la nascita del Nazionalsocialismo](crisi_della_germania_repubblicana_e_il_nazismo/hitler_e_la_nascita_del_nazionalsocialismo.md)
    * [Il nazismo al potere](crisi_della_germania_repubblicana_e_il_nazismo/il_nazismo_al_potere.md)
    * [L'ideologia nazista e l'antisemitismo](crisi_della_germania_repubblicana_e_il_nazismo/lideologia_nazista_e_lantisemitismo.md)
+* [Il regime fascista](il_regime_fascista/README.md)
+   * [La nascita del regime](il_regime_fascista/la_nascita_del_regime.md)
+   * [Il fascismo tra consenso ed opposizione](il_regime_fascista/il_fascismo_tra_consenso_ed_opposizione.md)
+   * [La politica interna ed economica](il_regime_fascista/la_politica_interna_ed_economica.md)
+   * [Il rapporto tra Chiesa e Fascismo](il_regime_fascista/il_rapporto_tra_chiesa_e_fascismo.md)
+   * [La politica estera](il_regime_fascista/la_politica_estera.md)
+   * [Le leggi razziali](il_regime_fascista/le_leggi_razziali.md)
 
