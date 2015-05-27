@@ -1,4 +1,4 @@
-# Argomenti principali
+#Argomenti principali
 
 #Giolitti
 
@@ -55,86 +55,97 @@
 - Pace di Parigi
 - I 14 punti di Wilson
 - Il trattato di Versailles
-- Le conquiste territoriali nel dopo guerra con i trattati di pace
+- Le conquiste territoriali italiane con i trattati di pace
 - Formazione di nuovi stati europei
 - Creazione della Società delle Nazioni
 
-#Rivoluzione russa
+# Russia
 
-##Rivoluzione febbraio
-- Sommosse
+## Dalla Rivoluzione di febbraio a Lenin
+- Rivoluzione di febbraio (1947)
 - Governo con la borghesia
-- icola II abdica
-- Governo provvisorio dei Soviet che comprende operai, soldati, contadini. Guidato da Lenin.
-- Le tesi di Aprile di Lenin secondo le quali il governo deve ess dei Soviet(lavoratori)
-- Occupazione palazzo d'Inverno(Rivoluzione d'Orrobre)
-- Il governo passa in mano ai Soviet
-- Lenin firma la pace di Bres-
+- Nicola II abdica
+- Governo provvisorio dei Soviet(comprende operai, soldati, contadini).
+- Le tesi di Aprile di Lenin: governo ai Soviet
+- Occupazione palazzo d'Inverno(Rivoluzione d'Ottobre)
+- Il governo in mano ai Soviet con a capo Lenin
+- Lenin firma la pace di Brest-Litosvk
 
-##NEP(Nuova politica economica)
-- Maggiore libertà di commercio
-- Viene fondata l'URSS organizzata con un soviet supremo, un consiglio dei commissari del popolo, una corte suprema
-- ...
+## Politica interna
+- NEP (Nuova politica economica)
+    - Maggiore libertà di commercio
+- Fondazione URSS. Comprende:
+    - Soviet supremo(potere legislativo)
+    - Consiglio dei commissari del popolo(potere esecutivo)
+    - Corte suprema(potere giudiziario)
 
 
 ##Stalin
-- Politica economica rigurdo all'agricoltura(con la nazionalizzazione)
-- Kolkoz e Solkoz(???)
-- Piani Quinquennali per l'industria
+- Ascesa
+- Politica economica:
+    - Piani Quinquennali per l'industria
+    - Agricoltura
+         - Kolkhoz e Sovkhoz
+- Purghe
+- Gulag
+- Culto della personalità
 
-###Purge, Gulage culto della personalità
 
-
-##
+---
 - Francia ottiene Siria Lirbano
-- Inghilterra ottiene Iran e Palestina
-- Trasgordania(?) ottiene-> palestina
+- Inghilterra ottiene Iran, Palestina e Trasgordania
+---
+
 
 #Fascimo
-Trentino, Istia e bacino dell'Isonzo.
-Malcontento dei reducindi guerra: dalmazia e istria
+
+Causa Malcontento dei reduci di guerra: Dopo la guerra l'Italia era riuscita ad ottenere Trentino, Istia e bacino dell'Isonzo ma non Fiume e Dalmazia.
+Inoltre i reduci, ritornati della guerra, non ottengono le terre a loro precedentemente promesse.
 
 ##Cause
 - Malcontento dei reduci
-- Difficoltà economiche(c'è bisogno di ripresa e riconversione delle industrie) -> falliscono molte imprese
+- Difficoltà economiche
+- Bisogno di ripresa e riconversione delle industrie
+- Falliscono molte imprese
 - Si diffondaono idee di nazionalismo
 
-ne approfitta Mussolini creando i fasci di combattimenti contraponendoli agli altri partiti come:
-- il Partito Popolare di Don luiig Sturzo
-- prtito socialista: massimalisti, riformisti e ordine di Bordiga Granzi e togliatti
+Ne approfitta Mussolini creando i fasci di combattimenti contraponendoli agli altri partiti come:
+- Partito Popolare di Don Luigi Sturzo
+- Partito socialista: comprende massimalisti, riformisti e ordine di Bordiga, Granzi e Togliatti
 
-Ha l'appoggio della borghesia(soprattuto con il Biennio Rossoe le riforme degli orari del lavoro e bla blabla)e dai reduci malcontenti.
+Mussolini ha l'appoggio della borghesia e dei reduci.
 
 ##Fatti
-- ...
-- Programma di San sepolscro:
-    - Basato su
-    - Voleva autonomie di comuni
-    - uffraggio universale femminile
-    - abolizione del senato
-    - eliminazione di titoli nobniliari(conte duca)
-    - abolizione della costrizione(servizio militare)
+- Programma di San Sepolcro che si basa su:
+    - Nazionalismo
+    - Autonomia ai comuni
+    - Suffraggio universale femminile
+    - Abolizione del senato
+    - Eliminazione di titoli nobiliari(conte, duca, ecc.)
+    - Abolizione della costrizione(servizio militare)
     - Terre ai contadini
 - Squadre di Azione:
-    - assalivano le leghe operaie, sede dei partiti socialisti. tutto cio che era legato al socialismo
+    - assalivano tutto cio che era legato al socialismo(le leghe operaie, sede dei partiti socialisti, ecc.)
 - Vittoria nelle elezioni
 - Marcia su Roma(1922)
+- Quadrumvirato
 
 ##Azioni
-- Gran consiglio viene fondato e il Parlamento perde potere
-- Leggi fatt:
-    - Leggi Acerbo
+- Viene fondato il Gran consiglio e il Parlamento perde potere
+- Leggi:
+    - Legge Acerbo
     - Legge elettorale
-- Delitto Matteotti e secezione dell'avventino
+- Delitto Matteotti
+- Secezione Aventino
 
 ##Riforme
-- Leggi fascistissime(cap. 11)
+- Leggi fascistissime
 - Ulteriore riforma elettorale
 - Prebliscito e fine del parlamento
 - Codice Rocco
 - Fine sindacati e nascita corporazioni
 - Quota novanta
-- Economia autartica
+- Economia autarchica
 - Patti lateranensi
 - Politica coloniale
 - Leggi razziali
