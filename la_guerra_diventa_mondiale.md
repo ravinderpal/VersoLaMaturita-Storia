@@ -1,2 +1,0 @@
-# La guerra diventa mondiale
-
