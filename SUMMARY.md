@@ -25,7 +25,6 @@
 * [La seconda guerra mondiale](la_seconda_guerra_mondiale/README.md)
    * [La guerra lampo](la_guerra_lampo.md)
    * [La guerra diventa mondiale](la_guerra_diventa_mondiale.md)
-   * [La caduta del fascismo e la guerra civile in Italia](la_caduta_del_fascismo_e_la_guerra_civile_in_italia.md)
    * [La vittoria degli alleati](la_vittoria_degli_alleati.md)
    * [La guerra civile italiana](la_guerra_civile_italiana.md)
 * [USA-URSS: La guerra fredda](usa-urss_la_guerra_fredda/README.md)
