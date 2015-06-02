@@ -27,6 +27,7 @@
    * [La guerra diventa mondiale](la_guerra_diventa_mondiale.md)
    * [La caduta del fascismo e la guerra civile in Italia](la_caduta_del_fascismo_e_la_guerra_civile_in_italia.md)
    * [La vittoria degli alleati](la_vittoria_degli_alleati.md)
+   * La guerra civile italiana
 * [USA-URSS: La guerra fredda](usa-urss_la_guerra_fredda/README.md)
 * [La decolonizzazione in Asia e Africa e la questione meriorientale](la_decolonizzazione_in_asia_e_africa_e_la_questione_meriorientale/README.md)
 
