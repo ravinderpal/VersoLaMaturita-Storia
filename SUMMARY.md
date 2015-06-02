@@ -25,6 +25,7 @@
 * [La seconda guerra mondiale](la_seconda_guerra_mondiale/README.md)
    * [La guerra lampo](la_guerra_lampo.md)
    * [La guerra diventa mondiale](la_guerra_diventa_mondiale.md)
+   * La caduta del fascismo e la guerra civile in Italia
 * [USA-URSS: La guerra fredda](usa-urss_la_guerra_fredda/README.md)
 * [La decolonizzazione in Asia e Africa e la questione meriorientale](la_decolonizzazione_in_asia_e_africa_e_la_questione_meriorientale/README.md)
 
