@@ -22,4 +22,7 @@
    * [I fascismi in Europa e l'Asse Roma-Berlino-Tokyo](leuropa_e_il_mondo_verso_una_nuova_guerra/i_fascismi_in_europa.md)
    * [La guerra civile spagnola](leuropa_e_il_mondo_verso_una_nuova_guerra/la_guerra_civile_spagnola.md)
    * [La Germania verso la guerra](leuropa_e_il_mondo_verso_una_nuova_guerra/la_germania_verso_la_guerra.md)
+* [La seconda guerra mondiale](la_seconda_guerra_mondiale/README.md)
+* [USA-URSS: La guerra fredda](usa-urss_la_guerra_fredda/README.md)
+* [La decolonizzazione in Asia e Africa e la questione meriorientale](la_decolonizzazione_in_asia_e_africa_e_la_questione_meriorientale/README.md)
 
