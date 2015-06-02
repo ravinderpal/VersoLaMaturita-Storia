@@ -1,2 +1,0 @@
-# La vittoria degli alleati
-
