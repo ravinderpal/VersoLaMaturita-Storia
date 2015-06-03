@@ -24,7 +24,7 @@
    * [La Germania verso la guerra](leuropa_e_il_mondo_verso_una_nuova_guerra/la_germania_verso_la_guerra.md)
 * [La seconda guerra mondiale](la_seconda_guerra_mondiale/README.md)
    * [La guerra lampo](la_seconda_guerra_mondiale/la_guerra_lampo.md)
-   * [La guerra diventa mondiale](la_guerra_diventa_mondiale.md)
+   * [La guerra diventa mondiale](la_seconda_guerra_mondiale/la_guerra_diventa_mondiale.md)
    * [La vittoria degli alleati](la_vittoria_degli_alleati.md)
    * [La guerra civile italiana](la_guerra_civile_italiana.md)
    * [La caduta del fascismo](la_seconda_guerra_mondiale/la_caduta_del_fascismo.md)
