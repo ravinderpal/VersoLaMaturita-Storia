@@ -28,5 +28,9 @@
    * [La vittoria degli alleati](la_seconda_guerra_mondiale/la_vittoria_degli_alleati.md)
    * [La guerra civile italiana](la_seconda_guerra_mondiale/la_guerra_civile_italiana.md)
 * [USA-URSS: La guerra fredda](usa-urss_la_guerra_fredda/README.md)
-* [La decolonizzazione in Asia e Africa e la questione meriorientale](la_decolonizzazione_in_asia_e_africa_e_la_questione_meriorientale/README.md)
+   * [Il dopoguerra](usa-urss_la_guerra_fredda/il_dopoguerra.md)
+   * [La guerra fredda](usa-urss_la_guerra_fredda/la_guerra_fredda.md)
+* [La decolonizzazione in Asia e la questione meriorientale](la_decolonizzazione_in_asia_e_africa_e_la_questione_meriorientale/README.md)
+   * [Le indipendenze in Asia](la_decolonizzazione_in_asia_e_africa_e_la_questione_meriorientale/le_indipendenze_in_asia.md)
+   * [I conflitti in medioriente](la_decolonizzazione_in_asia_e_africa_e_la_questione_meriorientale/i_conflitti_in_medioriente.md)
 
