@@ -1,10 +1,11 @@
 #Argomenti principali
+Elenco degli argomenti principali da sapere per l'esame orale (non completo)
 
 #Giolitti
 
 ##Tendenza politica
 * Diritto di sciopero con Codice Zanardelli
-* Anziani ed infortunati invani
+* Anziani ed infortunati
 * Istruzione elementare
 * Giorno di riposo
 * Indennità parlamentare
@@ -28,20 +29,20 @@
 ##Politica estera
 * Triplice alleanza(con Francia e Inghilterra)
 * Conquista Libia che appartiene alla Turchia.
-* Dichiara guerra alla turchia
+* Dichiara guerra alla Turchia
 * Pace di Losanna
-* Italia ha ottien Cirenaica e Tripolitania. Ma le zone sono desertiche, prime di materie prime(poi si scoprì il petrolio)
+* Italia ha ottiene Cirenaica e Tripolitania. Ma le zone sono desertiche, prime di materie prime(poi si scoprì il petrolio)
 
 ##Fine primo ministero Giolitti
 * Malcontento per la guerra porta alla fine del primo ministro Giolitti
 
 
 
-#Prima Guerrra Mondiale
+#Prima Guerra Mondiale
 
 ##Cause
 * Scontro Francia-Germania per i territori confinanti lungo il Reno
-* Scontro Germania-Ingilterra a causa della marina militare tedesca che infesta il mare inglese
+* Scontro Germania-Inghilterra a causa della marina militare tedesca che infesta il mare inglese
 * Triplice Intesa(Francia, Inghilterra e Russia)
 * Triplice Alleanza(Germania, Italia e Austria)
 * Crisi del Marocco
@@ -49,7 +50,7 @@
 * Le due guerre balcaniche
 
 ## Antefatto
-* Uccisione di Francescno Ferdinando e della moglie da parte di uno studente serbo
+* Uccisione di Francesco Ferdinando e della moglie da parte di uno studente serbo
 
 ## Il dopoguerra
 - Pace di Parigi
@@ -92,14 +93,14 @@
 
 
 ---
-- Francia ottiene Siria Lirbano
+- Francia ottiene Siria Libano
 - Inghilterra ottiene Iran, Palestina e Trasgordania
 ---
 
 
-#Fascimo
+#Fascismo
 
-Causa Malcontento dei reduci di guerra: Dopo la guerra l'Italia era riuscita ad ottenere Trentino, Istia e bacino dell'Isonzo ma non Fiume e Dalmazia.
+Causa Malcontento dei reduci di guerra: Dopo la guerra l'Italia era riuscita ad ottenere Trentino, Istria e bacino dell'Isonzo ma non Fiume e Dalmazia.
 Inoltre i reduci, ritornati della guerra, non ottengono le terre a loro precedentemente promesse.
 
 ##Cause
@@ -107,9 +108,9 @@ Inoltre i reduci, ritornati della guerra, non ottengono le terre a loro preceden
 - Difficoltà economiche
 - Bisogno di ripresa e riconversione delle industrie
 - Falliscono molte imprese
-- Si diffondaono idee di nazionalismo
+- Si diffondono idee di nazionalismo
 
-Ne approfitta Mussolini creando i fasci di combattimenti contraponendoli agli altri partiti come:
+Ne approfitta Mussolini creando i fasci di combattimenti contrapponendoli agli altri partiti come:
 - Partito Popolare di Don Luigi Sturzo
 - Partito socialista: comprende massimalisti, riformisti e ordine di Bordiga, Granzi e Togliatti
 
@@ -119,13 +120,13 @@ Mussolini ha l'appoggio della borghesia e dei reduci.
 - Programma di San Sepolcro che si basa su:
     - Nazionalismo
     - Autonomia ai comuni
-    - Suffraggio universale femminile
+    - Suffragio universale femminile
     - Abolizione del senato
     - Eliminazione di titoli nobiliari(conte, duca, ecc.)
     - Abolizione della costrizione(servizio militare)
     - Terre ai contadini
 - Squadre di Azione:
-    - assalivano tutto cio che era legato al socialismo(le leghe operaie, sede dei partiti socialisti, ecc.)
+    - assalivano tutto ciò che era legato al socialismo(le leghe operaie, sede dei partiti socialisti, ecc.)
 - Vittoria nelle elezioni
 - Marcia su Roma(1922)
 - Quadrumvirato
@@ -136,12 +137,12 @@ Mussolini ha l'appoggio della borghesia e dei reduci.
     - Legge Acerbo
     - Legge elettorale
 - Delitto Matteotti
-- Secezione Aventino
+- Secessione Aventino
 
 ##Riforme
 - Leggi fascistissime
 - Ulteriore riforma elettorale
-- Prebliscito e fine del parlamento
+- Plebiscito e fine del parlamento
 - Codice Rocco
 - Fine sindacati e nascita corporazioni
 - Quota novanta
