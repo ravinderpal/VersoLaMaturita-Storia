@@ -4,6 +4,7 @@
    * [Argomenti principali](argomenti_principali.md)
 * [Giolitti](giolitti/README.md)
 * [La prima guerra mondiale](prima_guerra_mondiale/README.md)
+* [L'Europa e il mondo dopo il conflitto](leuropa_e_il_mondo_dopo_il_conflitto/README.md)
 * [Gli Stati Uniti e la crisi del '29](gli_stati_uniti_e_la_crisi_del_29/README.md)
    * [Il nuovo ruolo degli Stati Uniti e la politica isolazionista](gli_stati_uniti_e_la_crisi_del_29/il_nuovo_ruolo_degli_stati_uniti_e_la_politica_isolazionista.md)
    * [Gli anni venti e la crisi del '29](gli_stati_uniti_e_la_crisi_del_29/gli_anni_venti_e_la_crisi_del_29.md)
