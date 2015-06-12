@@ -7,6 +7,7 @@
 * [L'Europa e il mondo dopo il conflitto](leuropa_e_il_mondo_dopo_il_conflitto/README.md)
 * [Il dopoguerra in Italia e l'avvento del fascismo](il_dopoguerra_in_italia_e_lavvento_del_fascismo/README.md)
 * [Dalla rivoluzione russa alla nascita dell'URSS](dalla_rivoluzione_russa_alla_nascita_dellurss/README.md)
+* [L'unione sovietica di Stalin](lunione_sovietica_di_stalin/README.md)
 * [Gli Stati Uniti e la crisi del '29](gli_stati_uniti_e_la_crisi_del_29/README.md)
    * [Il nuovo ruolo degli Stati Uniti e la politica isolazionista](gli_stati_uniti_e_la_crisi_del_29/il_nuovo_ruolo_degli_stati_uniti_e_la_politica_isolazionista.md)
    * [Gli anni venti e la crisi del '29](gli_stati_uniti_e_la_crisi_del_29/gli_anni_venti_e_la_crisi_del_29.md)
