@@ -37,7 +37,7 @@ Cerca l’appoggio delle altre forze politiche, in particolare del partito socia
 La Chiesa è contraria ai comunisti e vuole una legislazione a favore del popolo sociale, una riforma tributaria e vuole un decentramento amministrativo per favorire le amministrazioni locali perchè conoscono maggiormente i problemi dei cittadini.
 La Chiesa vorrebbe anche un allargamento del suffragio elettorale.
 Romolo Murri fonda un movimento per stringere i rapporti tra Chiesa e socialismo. Questo movimento si trasformerà nella _democrazia cristiana_.
-Murri entra in contrasto con la gerarchia ecclesiastica e viene sospeso a _divinis_, cioè non può più essere sacerdote, per poi essere scomunicato.  
+Murri entra in contrasto con la gerarchia ecclesiastica e viene sospeso a _divinis_, cioè non può più essere sacerdote, per poi essere scomunicato.
 In Sicilia c’era Luigi Sturzo che comincia a diffondere l’idea di un partito laico-cristiano autonomo dalla Chiesa.
 Nasce il movimento sindacale di Guido Miglioli chiamato le _leghe bianche_.
 Giolitti capisce che le forze cattoliche stanno prendendo piede e vuole allearsi con la Chiesa e Pio X permette ai cattolici di prendere parte alle elezioni italiane.
@@ -58,7 +58,7 @@ Conseguenza positiva è stato il fatto che i nazionalisti prendono più vigore e
 
 
 ---
-####_(Da approfondire)_
+####_(Da completare e approfondire)_
 
 ###Cause prima guerra mondiale
 - Politica aggressiva della Germania sotto Guglielmo II
